@@ -1,2 +1,0 @@
-# reactDesign
-Created with CodeSandbox
